@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Simens hjemmeside</title>
+    </head>
+    <body>
+        <h1>Simens hjemmeside</h1>
+
+        <a href="#sider">Mine mest brukte sider</a>
+        <h2>Litt om meg selv</h2>
+        <p>
+            Hei, jeg heter <em>Simen!</em>
+        </p>
+        <p>
+            Jeg bor på Auli<br>
+            Jeg blir <strong>20 år</strong>
+        </p>
+
+        <p>
+            Mine interesser:
+            <ul>
+                <li>
+                    Dataspill(de beste spillene):
+                    <ol>
+                        <li>Rainbow six</li>
+                        <li>League of Legends</li>
+                    </ol>
+                </li>
+                <li>Fotografering</li>
+                <li>
+                    Jakt og fiske
+                    <img src="./images/fisk.jpg" alt="Bilde av en filetert fisk" width="300">
+                </li>
+            </ul>
+        </p>
+        <p id="sider">
+            Sider jeg bruker:
+            <ol>
+                <li>
+                    <a href="http://yr.no" title="Verdens beste værside">Yr</a>
+                </li>
+                <li>
+                    <a href="http://nrk.no">NRK</a>
+                </li>
+            </ol>
+        </p>
+
+        <table>
+            <tr>
+                <th colspan="2">Kol 1</th>
+                <th>Kol 2</th>
+            </tr>
+            <tr>
+                <td>Rad 1 celle 1</td>
+                <td>Rad 1 celle 2</td>
+                <td>rad 1 celle 3</td>
+            </tr>
+            <tr>
+                <td>Rad 2 celle 1</td>
+                <td>Rad 2 celle 2</td>
+                <td>rad 2 celle 3</td>
+            </tr>
+        </table>
+        <p>
+            Registrer deg
+            <form action="" method="POST">
+                Navn: <input type="text" name="fornavn" width="100"><br>
+                E-post: <input type="email" name="epost"><br>
+                Passord: <input type="password" name="passord"><br>
+                Kjønn: <select name="kjønn">
+                    <option></option>
+                    <option>Jente</option>
+                    <option>Gutt</option>
+                </select><br>
+                Jeg godtar vilkårene: <input type="checkbox" checked name="akseptert">
+                Litt om deg selv: <textarea cols="40" rows="3" name="biografi"></textarea>
+                <button>Send inn</button>
+            </form>
+        </p>
+    </body>
+</html>
