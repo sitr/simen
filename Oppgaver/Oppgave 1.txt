@@ -9,5 +9,5 @@ Bruk bilder av deg selv eller det du måtte mene passer.
 
 Du kan se på hva vi gjorde i første gjennomgang av HTML-kode. Fila ligger under /Ressurser/html_innføring.html. Du kan også se på http://www.htmldog.com/guides/html/
 
-2. Lag en side som inneholder din CV. Tips! Her må du bruke tabeller. Lagre den som cv.html og så oppretter du klikkbare lenker mellom disse to sidene.
+2. Lag en side som inneholder din CV. Tips! Her må du bruke tabeller. Lag også en meny øverst på siden, med interne sidelenker til hovedpunktene i CV'en slik som utdanning, arbeidserfaring etc. Lagre den som cv.html og så oppretter du klikkbare lenker mellom disse to sidene.
 	
