@@ -1,0 +1,13 @@
+1. Lag en side som inneholder informasjon om deg selv. Lagre fila som default.html på rotkatalogen
+Den skal inneholde informasjon om bl.a. 
+	- Navn
+	- Bosted
+	- Alder
+	- Interesser
+	- Hva du har drevet med
+Bruk bilder av deg selv eller det du måtte mene passer.
+
+Du kan se på hva vi gjorde i første gjennomgang av HTML-kode. Fila ligger under /Ressurser/html_innføring.html. Du kan også se på http://www.htmldog.com/guides/html/
+
+2. Lag en side som inneholder din CV. Tips! Her må du bruke tabeller. Lagre den som cv.html og så oppretter du klikkbare lenker mellom disse to sidene.
+	
