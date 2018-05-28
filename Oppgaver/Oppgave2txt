@@ -1,0 +1,3 @@
+1. Bruk font-type Arial overalt og standardstørrelse på 12 px
+2. Fjern understreking på samtlige lenker, og bruk en mørkblå farge i stedet for den som er standard
+3. Gjør alle bildene under fotografering til 250px bredde, ikke bruk width-atributten på HTML-elementet.
